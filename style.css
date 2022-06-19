@@ -79,7 +79,7 @@ input:hover {
 }
 .invalid input {
     border-color: hsl(0, 100%, 74%) ;
-    background-image: url(../zuri4/images/icon-error.svg);
+    background-image: url(zuri4/images/icon-error.svg);
     background-repeat: no-repeat;
     background-position:97% 47% ;
     
